@@ -1,0 +1,17 @@
+# dependencies
+dev/dep/*
+release/dep/*
+
+# the git-pip python bits
+dev/dep/python/get-pip.py
+release/dep/python/get-pip.py
+get-pip.py
+
+# the external TD tools
+dev/td-modules/tools/releaseVersions/*
+
+# mac files
+*.DS_STORE
+
+# cache files
+dev/cache/*

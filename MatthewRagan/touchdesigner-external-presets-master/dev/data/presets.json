@@ -1,0 +1,14 @@
+{
+    "scenes": {
+        "zoe": {
+            "P1scene": "/base_project/base_scenes/base_scene2_p1",
+            "P2scene": "/base_project/base_scenes/base_scene3_p2",
+            "Scenepresetname": "zoe"
+        },
+        "zoe 2": {
+            "P1scene": "/base_project/base_scenes/base_scene2_p1",
+            "P2scene": "/base_project/base_scenes/base_scene3_p2",
+            "Scenepresetname": "zoe 2"
+        }
+    }
+}
